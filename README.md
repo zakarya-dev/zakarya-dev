@@ -47,11 +47,27 @@
 
 
 
-## 📱 My Applications
-[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/77733277/154127064-6827360d-4ab9-4f21-abe8-d84a7fcd1cbd.png"/>][homeSchoolLink]
+## 📱 My Applications(Android)
+## API
+[<img align="left" alt="Home School" width="80px" src="https://user-images.githubusercontent.com/77733277/154127064-6827360d-4ab9-4f21-abe8-d84a7fcd1cbd.png"/>][homeSchoolAndroidLink]
+[<img align="left" alt="Land Toughen Glass" width="80px" src="https://user-images.githubusercontent.com/77733277/154127395-4285e67c-8592-4f28-aff6-153f24d8c0ad.png"/>][landGlassAndroidLink]
+[<img align="left" alt="ناوی کوردی" width="80px" src="https://user-images.githubusercontent.com/77733277/154127893-8f652270-5568-4d3b-a4ed-5633e90675a1.png"/>][kurdishNamesAndroidLink]
+<br>
+## Webview
+[<img align="left" alt="Botdenm" width="80px" src="https://user-images.githubusercontent.com/77733277/154128522-cfc99f37-c1bf-43eb-a2f9-5d4f2da30039.png"/>][botdenmAndroidLink]
+<br><br>
+
+## 📱 My Applications(IOS)
+## API
+[<img align="left" alt="Home School" width="80px" src="https://user-images.githubusercontent.com/77733277/154127064-6827360d-4ab9-4f21-abe8-d84a7fcd1cbd.png"/>][homeSchoolIOSLink]
+
 
 [twitter]: https://twitter.com/zakaryamuhamma2
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
 [instagram]: https://www.instagram.com/zakarya_dev/
 [facebook]: https://www.facebook.com/zakarya.m.aziz
-[homeSchoolLink]: https://play.google.com/store/apps/details?id=com.homeschool
+[homeSchoolAndroidLink]: https://play.google.com/store/apps/details?id=com.homeschool
+[landGlassAndroidLink]: https://play.google.com/store/apps/details?id=systeminfo.langlass
+[kurdishNamesAndroidLink]: https://play.google.com/store/apps/details?id=com.allul.kurdishnames
+[botdenmAndroidLink]: https://play.google.com/store/apps/details?id=com.botdenm
+[homeSchoolIOSLink]: https://apps.apple.com/app/id1583473888
