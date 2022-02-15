@@ -43,11 +43,12 @@
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br><br>
 
 
 
 ## 📱 My Applications
-[Home School][homeSchoolLink]
+[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/77733277/154127064-6827360d-4ab9-4f21-abe8-d84a7fcd1cbd.png"/>][homeSchoolLink]
 
 [twitter]: https://twitter.com/zakaryamuhamma2
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
