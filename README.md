@@ -1,1 +1,1 @@
-<img src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="my banner">
+<img src="https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif" alt="my banner">
