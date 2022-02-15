@@ -1,5 +1,5 @@
 ## HI, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
-🎓: Graduated from Software Engineering at Koya university.<br>
+🎓: Software Engineering - Koya university.<br>
 👦: 22 Years Old<br>
 🏡: Choman, Erbil, Iraq<br>
 ✉️: [Zakarya.m.aziz@gmail.com](mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
@@ -31,7 +31,7 @@
 <br><br>
 
 
-## Contact Info
+## 📞 Contact Info
 [<img align="left" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -41,4 +41,3 @@
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
 [instagram]: https://www.instagram.com/zakarya_dev/
 [facebook]: https://www.facebook.com/zakarya.m.aziz
-[email]: https://mailto:zakarya.m.aziz@gmail.com
