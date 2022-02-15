@@ -12,4 +12,4 @@ Software Engineer & Flutter Developer<br>
 <img alt="English" src="https://img.shields.io/badge/English-%2320232a.svg?style=for-the-badge&logo=english&logoColor=%2361DAFB"/> <img alt="Kurdish" src="https://img.shields.io/badge/kurdish-%2320232a.svg?style=for-the-badge&logo=kurdish&logoColor=%2361DAFB"/> <img alt="Arabic" src="https://img.shields.io/badge/arabic-%2320232a.svg?style=for-the-badge&logo=arabic&logoColor=%2361DAFB"/> 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
