@@ -1,4 +1,4 @@
-## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
+## HI, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
 Graduated from Software Engineering at Koya university.<br>
 22 Years Old<br>
 Software Engineer & Flutter Developer<br><br>
