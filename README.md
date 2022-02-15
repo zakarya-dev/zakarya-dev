@@ -1,7 +1,7 @@
 ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
 graduated from software engineering at koya university.<br>
-22YO
-Software Engineer & Flutter Developer
+22YO<br>
+Software Engineer & Flutter Developer<br>
 
 <img src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" alt="Mobile Application Developer" width="100%">
 
@@ -10,3 +10,6 @@ Software Engineer & Flutter Developer
 
 ## Languages
 <img alt="English" src="https://img.shields.io/badge/English-%2320232a.svg?style=for-the-badge&logo=english&logoColor=%2361DAFB"/> <img alt="Kurdish" src="https://img.shields.io/badge/kurdish-%2320232a.svg?style=for-the-badge&logo=kurdish&logoColor=%2361DAFB"/> <img alt="Arabic" src="https://img.shields.io/badge/arabic-%2320232a.svg?style=for-the-badge&logo=arabic&logoColor=%2361DAFB"/> 
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
