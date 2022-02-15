@@ -3,11 +3,10 @@
 👦: 22 Years Old<br>
 🏡: Choman, Erbil, Iraq<br>
 ✉️: [Zakarya.m.aziz@gmail.com](mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
-💻 Software Engineer & Flutter Developer<br><br>
+💻 Software Engineer & Flutter Developer<br><br><br>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Laravel
-- 💬 Ask me about Flutter & Dart
-- <br><br>
+- 💬 Ask me about Flutter & Dart<br><br>
 
 <img src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" alt="Mobile Application Developer" width="100%">
 
