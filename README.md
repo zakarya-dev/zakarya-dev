@@ -2,7 +2,7 @@
 🎓: Graduated from Software Engineering at Koya university.<br>
 👦: 22 Years Old<br>
 🏡: Choman, Erbil, Iraq<br>
- ⚧️: Male<br>
+
 ✉️: [Zakarya.m.aziz@gmail.com](mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
 📞: [+964 783 108 4958](tel:+9647831084958)<br>
 💻: Software Engineer & Flutter Developer<br><br>
