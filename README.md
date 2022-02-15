@@ -46,6 +46,7 @@
 ![](https://img.shields.io/badge/Tools-Dribbble-informational?style=flat&logo=dribbble&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Emulator-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
 <br><br>
 
 ## 📞 Contact Info
