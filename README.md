@@ -12,10 +12,16 @@
 <img src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" alt="Mobile Application Developer" width="100%">
 <br><br>
 
-## 💪 Skills
+## 💪 Coding Skills
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB"/> <img alt="HTML" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB"/> <img alt="CSS" src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB"/> <img alt="Java" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB"/>
 <br><br>
 ![skills](https://user-images.githubusercontent.com/77733277/154126127-6f262de1-a271-4027-8a20-47a83ab56ae8.png)
+<br><br>
+
+## 💪 Other Skills
+<img alt="Teamwork" src="https://img.shields.io/badge/teamwork-%2320232a.svg?style=for-the-badge&logo=teamwork&logoColor=%2361DAFB"/> <img alt="Problem Solving" src="https://img.shields.io/badge/problem solving-%2320232a.svg?style=for-the-badge&logo=problemsolving&logoColor=%2361DAFB"/> 
+<br><br>
+![other skills](https://user-images.githubusercontent.com/77733277/154138899-67152f87-9051-4239-9c51-70281f1ef130.png)
 <br><br>
 
 ## 🌍 Languages
@@ -26,11 +32,14 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Localhost-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 <br><br>
 
 ## 📞 Contact Info
