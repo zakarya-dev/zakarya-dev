@@ -1,1 +1,1 @@
-<img src="https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif" alt="my banner">
+<img src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" alt="my banner">
