@@ -1,7 +1,10 @@
 ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
 Graduated from Software Engineering at Koya university.<br>
 22 Years Old<br>
-Software Engineer & Flutter Developer<br>
+Software Engineer & Flutter Developer<br><br>
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Laravel
+- 💬 Ask me about Flutter & Dart
 
 <img src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" alt="Mobile Application Developer" width="100%">
 
