@@ -30,7 +30,7 @@ Software Engineer & Flutter Developer<br><br>
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/envelope.svg" />][email]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/envelope.svg" />](mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 [twitter]: https://twitter.com/zakaryamuhamma2
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
