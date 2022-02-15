@@ -34,10 +34,10 @@
 <br><br><br><br>
 
 ## 📞 Contact Info
-[<img align="left" alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />][facebook]
+[<img align="left" alt="Twitter" width="40px" src="https://pnggrid.com/wp-content/uploads/2021/07/Twitter-Logo-Square.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 <br><br><br><br>
 
 ## 📱 My Applications(Android)
@@ -50,6 +50,7 @@
 ## Webview
 [<img align="left" alt="Botdenm" width="50px" src="https://user-images.githubusercontent.com/77733277/154128522-cfc99f37-c1bf-43eb-a2f9-5d4f2da30039.png"/>][botdenmAndroidLink]
 <br><br><br><br>
+
 
 ## 📱 My Applications(IOS)
 ## API
