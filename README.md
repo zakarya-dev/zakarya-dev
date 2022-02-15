@@ -70,7 +70,7 @@
 
 
 ## 📦 My Flutter Package(s)
-[z_time_ago][https://pub.dev/packages?q=z_time_ago]
+[z_time_ago]https://pub.dev/packages?q=z_time_ago
 
 
 [twitter]: https://twitter.com/zakaryamuhamma2
