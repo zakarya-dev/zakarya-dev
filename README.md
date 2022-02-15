@@ -44,7 +44,13 @@
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+
+## 📱 My Applications
+[Home School][homeSchoolLink]
+
 [twitter]: https://twitter.com/zakaryamuhamma2
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
 [instagram]: https://www.instagram.com/zakarya_dev/
 [facebook]: https://www.facebook.com/zakarya.m.aziz
+[homeSchoolLink]: https://play.google.com/store/apps/details?id=com.homeschool
