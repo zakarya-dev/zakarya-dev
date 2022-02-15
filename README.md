@@ -13,4 +13,4 @@ Software Engineer & Flutter Developer<br>
 
 
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a) 
