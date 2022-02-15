@@ -3,8 +3,8 @@
 👦: 22 Years Old<br>
 🏡: Choman, Erbil, Iraq<br>
 ✉️: [Zakarya.m.aziz@gmail.com](mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<br>
-📞: [+964 783 108 4958](tel:+9647831084958?subject=[GitHub]%20Source%20Han%20Sans)<br>
-💻 Software Engineer & Flutter Developer<br><br>
+📞: [+964 783 108 4958](tel:+9647831084958)<br>
+💻: Software Engineer & Flutter Developer<br><br>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about Flutter & Dart<br><br>
