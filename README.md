@@ -1,5 +1,5 @@
 ## Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
-graduated from software engineering at koya university.
+graduated from software engineering at koya university.<br>
 22YO
 Software Engineer & Flutter Developer
 
