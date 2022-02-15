@@ -1,8 +1,9 @@
 ## HI, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
-Graduated from Software Engineering at Koya university.<br>
+🎓: Graduated from Software Engineering at Koya university.<br>
 👦: 22 Years Old<br>
 🏡: Choman, Erbil, Iraq
-Software Engineer & Flutter Developer<br><br>
+✉️: [Zakarya.m.aziz@gmail.com](mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+💻 Software Engineer & Flutter Developer<br><br>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about Flutter & Dart
@@ -30,7 +31,6 @@ Software Engineer & Flutter Developer<br><br>
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-✉️(mailto:zakarya.m.aziz@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 [twitter]: https://twitter.com/zakaryamuhamma2
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
