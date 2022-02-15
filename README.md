@@ -40,6 +40,12 @@
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Localhost-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GoogleDrive-informational?style=flat&logo=googledrive&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Dribbble-informational?style=flat&logo=dribbble&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
 <br><br>
 
 ## 📞 Contact Info
