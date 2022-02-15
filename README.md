@@ -1,6 +1,7 @@
 ## HI, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Zakarya Muhammad
 Graduated from Software Engineering at Koya university.<br>
-22 Years Old<br>
+👦: 22 Years Old<br>
+🏡: Choman, Erbil, Iraq
 Software Engineer & Flutter Developer<br><br>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Laravel
@@ -8,14 +9,14 @@ Software Engineer & Flutter Developer<br><br>
 
 <img src="https://tranetech.com/wp-content/uploads/2021/02/app-tranetech.gif" alt="Mobile Application Developer" width="100%">
 
-## Skills
+## 💪 Skills
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB"/> <img alt="HTML" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB"/> <img alt="CSS" src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB"/> <img alt="Java" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB"/>
 
-## Languages
+## 🌍 Languages
 <img alt="English" src="https://img.shields.io/badge/English-%2320232a.svg?style=for-the-badge&logo=english&logoColor=%2361DAFB"/> <img alt="Kurdish" src="https://img.shields.io/badge/kurdish-%2320232a.svg?style=for-the-badge&logo=kurdish&logoColor=%2361DAFB"/> <img alt="Arabic" src="https://img.shields.io/badge/arabic-%2320232a.svg?style=for-the-badge&logo=arabic&logoColor=%2361DAFB"/> 
 
 
-## Technologies & Tools
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
@@ -24,13 +25,15 @@ Software Engineer & Flutter Developer<br><br>
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=shell&logoColor=white&color=2bbc8a)
 
 
-## Contact Info
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## ✉️ Contact Info
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][email]
 
 [twitter]: https://twitter.com/zakaryamuhamma2
 [linkedin]: https://www.linkedin.com/in/zakarya-muhammad-b121a2209
 [instagram]: https://www.instagram.com/zakarya_dev/
 [facebook]: https://www.facebook.com/zakarya.m.aziz
+[email]: https://mailto:zakarya.m.aziz@gmail.com
