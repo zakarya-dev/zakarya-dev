@@ -70,7 +70,7 @@
 
 
 ## 📦 My Flutter Package(s)
-[z_time_ago]: https://pub.dev/packages?q=z_time_ago
+[z_time_ago][zTimeAgoLink]
 
 
 [twitter]: https://twitter.com/zakaryamuhamma2
@@ -82,3 +82,4 @@
 [kurdishNamesAndroidLink]: https://play.google.com/store/apps/details?id=com.allul.kurdishnames
 [botdenmAndroidLink]: https://play.google.com/store/apps/details?id=com.botdenm
 [homeSchoolIOSLink]: https://apps.apple.com/app/id1583473888
+[zTimeAgoLink]:  https://pub.dev/packages?q=z_time_ago
