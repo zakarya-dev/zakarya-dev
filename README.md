@@ -13,25 +13,23 @@
 <br><br>
 
 ## 💪 Coding Skills
-<img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB"/> <img alt="HTML" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB"/> <img alt="CSS" src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB"/> <img alt="Java" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB"/>
+<img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB"/> <img alt="HTML" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB"/> <img alt="CSS" src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB"/> <img alt="Java" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB"/> <img alt="C Sharp" src="https://img.shields.io/badge/csharp-%2320232a.svg?style=for-the-badge&logo=csharp&logoColor=%2361DAFB"/>
 <br><br>
-![skills](https://user-images.githubusercontent.com/77733277/154225122-acc9322e-df27-44b8-b896-d0ad9cbdee1d.png)
-![Group 21](https://user-images.githubusercontent.com/77733277/154227768-f4c6061d-bd1e-46ba-8e27-26c2d5062010.png)
+![Coding Skills](https://user-images.githubusercontent.com/77733277/154233869-d62916a1-3d8c-4025-8371-7a4b3567d147.png)
 <br><br>
 
 
 ## 💪 Other Skills
 <img alt="Teamwork" src="https://img.shields.io/badge/teamwork-%2320232a.svg?style=for-the-badge&logo=teamwork&logoColor=%2361DAFB"/> <img alt="Problem Solving" src="https://img.shields.io/badge/problem solving-%2320232a.svg?style=for-the-badge&logo=problemsolving&logoColor=%2361DAFB"/> 
 <br><br>
-![other skills](https://user-images.githubusercontent.com/77733277/154138899-67152f87-9051-4239-9c51-70281f1ef130.png)
-![other skills](https://user-images.githubusercontent.com/77733277/154228053-61f77c5c-4fad-4a2c-9239-41441ea050c4.png)
+![Other Skills](https://user-images.githubusercontent.com/77733277/154239913-f8d064c5-2519-4ef9-9bfc-071d7f67c05d.png)
 <br><br>
 
 ## 🌍 Languages
 <img alt="English" src="https://img.shields.io/badge/English-%2320232a.svg?style=for-the-badge&logo=english&logoColor=%2361DAFB"/> <img alt="Kurdish" src="https://img.shields.io/badge/kurdish-%2320232a.svg?style=for-the-badge&logo=kurdish&logoColor=%2361DAFB"/> <img alt="Arabic" src="https://img.shields.io/badge/arabic-%2320232a.svg?style=for-the-badge&logo=arabic&logoColor=%2361DAFB"/> 
 <br><br>
-![language](https://user-images.githubusercontent.com/77733277/154126246-a95b9da8-b599-4109-8e51-1f3f5f0d2151.png)
-![languages](https://user-images.githubusercontent.com/77733277/154230925-9dfe52ca-9a1f-4d19-8b75-343d18a3c813.png)
+![languages](https://user-images.githubusercontent.com/77733277/154231712-3f51208c-7073-4abe-bdb1-474eebd16f30.png)
+
 
 <br><br>
 
