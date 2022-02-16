@@ -65,23 +65,6 @@
 [<img align="left" alt="Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 <br><br><br><br>
 
-## 📱 My Android Applications
-## API
-[<img align="left" alt="Home School" width="50px" src="https://user-images.githubusercontent.com/77733277/154127064-6827360d-4ab9-4f21-abe8-d84a7fcd1cbd.png"/>][homeSchoolAndroidLink]
-[<img align="left" alt="Land Toughen Glass" width="50px" src="https://user-images.githubusercontent.com/77733277/154127395-4285e67c-8592-4f28-aff6-153f24d8c0ad.png"/>][landGlassAndroidLink]
-[<img align="left" alt="ناوی کوردی" width="50px" src="https://user-images.githubusercontent.com/77733277/154127893-8f652270-5568-4d3b-a4ed-5633e90675a1.png"/>][kurdishNamesAndroidLink]
-<br><br><br>
-
-## Webview
-[<img align="left" alt="Botdenm" width="50px" src="https://user-images.githubusercontent.com/77733277/154128522-cfc99f37-c1bf-43eb-a2f9-5d4f2da30039.png"/>][botdenmAndroidLink]
-<br><br><br><br>
-
-
-## 📱 My IOS Application
-## API
-[<img align="left" alt="Home School" width="50px" src="https://user-images.githubusercontent.com/77733277/154127064-6827360d-4ab9-4f21-abe8-d84a7fcd1cbd.png"/>][homeSchoolIOSLink]
-<br><br><br><br>
-
 ## 📦 My Flutter Package(s)
 [z_time_ago][zTimeAgoLink]
 
