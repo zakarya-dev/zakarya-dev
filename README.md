@@ -36,6 +36,7 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-AndroidStudio-informational?style=flat&logo=androidstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
@@ -43,13 +44,18 @@
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=brave&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Localhost-Xampp-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GoogleDrive-informational?style=flat&logo=googledrive&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Dribbble-informational?style=flat&logo=dribbble&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Emulator-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-GoogleDrive-informational?style=flat&logo=googledrive&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Dribbble-informational?style=flat&logo=dribbble&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Emulator-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Website-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Website-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Website-Pub.dev-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Website-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=2bbc8a)
 <br><br>
 
 ## 📞 Contact Info
