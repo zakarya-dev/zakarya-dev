@@ -15,18 +15,22 @@
 ## 💪 Coding Skills
 <img alt="Flutter" src="https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/> <img alt="Dart" src="https://img.shields.io/badge/dart-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"/> <img alt="Laravel" src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB"/> <img alt="HTML" src="https://img.shields.io/badge/html-%2320232a.svg?style=for-the-badge&logo=html&logoColor=%2361DAFB"/> <img alt="CSS" src="https://img.shields.io/badge/css-%2320232a.svg?style=for-the-badge&logo=css&logoColor=%2361DAFB"/> <img alt="Java" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB"/>
 <br><br>
-![skills](https://user-images.githubusercontent.com/77733277/154126127-6f262de1-a271-4027-8a20-47a83ab56ae8.png)
+![skills](https://user-images.githubusercontent.com/77733277/154225122-acc9322e-df27-44b8-b896-d0ad9cbdee1d.png)
+![Group 21](https://user-images.githubusercontent.com/77733277/154227768-f4c6061d-bd1e-46ba-8e27-26c2d5062010.png)
 <br><br>
+
 
 ## 💪 Other Skills
 <img alt="Teamwork" src="https://img.shields.io/badge/teamwork-%2320232a.svg?style=for-the-badge&logo=teamwork&logoColor=%2361DAFB"/> <img alt="Problem Solving" src="https://img.shields.io/badge/problem solving-%2320232a.svg?style=for-the-badge&logo=problemsolving&logoColor=%2361DAFB"/> 
 <br><br>
 ![other skills](https://user-images.githubusercontent.com/77733277/154138899-67152f87-9051-4239-9c51-70281f1ef130.png)
+![other skills](https://user-images.githubusercontent.com/77733277/154228053-61f77c5c-4fad-4a2c-9239-41441ea050c4.png)
 <br><br>
 
 ## 🌍 Languages
 <img alt="English" src="https://img.shields.io/badge/English-%2320232a.svg?style=for-the-badge&logo=english&logoColor=%2361DAFB"/> <img alt="Kurdish" src="https://img.shields.io/badge/kurdish-%2320232a.svg?style=for-the-badge&logo=kurdish&logoColor=%2361DAFB"/> <img alt="Arabic" src="https://img.shields.io/badge/arabic-%2320232a.svg?style=for-the-badge&logo=arabic&logoColor=%2361DAFB"/> 
 <br><br>
+![languages](https://user-images.githubusercontent.com/77733277/154228674-b804b620-95a0-4c7f-9e77-9e7c0e0cc73a.png)
 ![language](https://user-images.githubusercontent.com/77733277/154126246-a95b9da8-b599-4109-8e51-1f3f5f0d2151.png)
 <br><br>
 
