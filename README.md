@@ -52,10 +52,10 @@
 ![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Emulator-informational?style=flat&logo=android&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Website-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Website-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Website-Pub.dev-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Website-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-StackOverflow-informational?style=flat&logo=stackoverflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Medium-informational?style=flat&logo=medium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Pub.dev-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=2bbc8a)
 <br><br>
 
 ## 📞 Contact Info
