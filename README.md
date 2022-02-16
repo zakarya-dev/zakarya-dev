@@ -30,8 +30,9 @@
 ## 🌍 Languages
 <img alt="English" src="https://img.shields.io/badge/English-%2320232a.svg?style=for-the-badge&logo=english&logoColor=%2361DAFB"/> <img alt="Kurdish" src="https://img.shields.io/badge/kurdish-%2320232a.svg?style=for-the-badge&logo=kurdish&logoColor=%2361DAFB"/> <img alt="Arabic" src="https://img.shields.io/badge/arabic-%2320232a.svg?style=for-the-badge&logo=arabic&logoColor=%2361DAFB"/> 
 <br><br>
-![languages](https://user-images.githubusercontent.com/77733277/154228674-b804b620-95a0-4c7f-9e77-9e7c0e0cc73a.png)
 ![language](https://user-images.githubusercontent.com/77733277/154126246-a95b9da8-b599-4109-8e51-1f3f5f0d2151.png)
+![languages](https://user-images.githubusercontent.com/77733277/154230925-9dfe52ca-9a1f-4d19-8b75-343d18a3c813.png)
+
 <br><br>
 
 ## 🔧 Technologies & Tools
