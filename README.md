@@ -4,7 +4,7 @@
 🏡: Choman, Erbil, Iraq<br>
 ✉️: [Zakarya.m.aziz@gmail.com](mailto:zakarya.m.aziz@gmail.com)<br>
 📞: +964 783 108 4958<br>
-💻: Software Engineer & Flutter Developer<br>
+💻: Developer<br>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Laravel
 - 💬 Ask me about Flutter & Dart<br><br>
